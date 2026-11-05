@@ -1,6 +1,6 @@
 ## Task 3 - ATM Interface
 
-Description
+# Description
 
 The ATM Interface is a Java-based console application that simulates basic ATM operations.
 
@@ -8,7 +8,7 @@ It allows users to withdraw money, deposit money, and check their account balanc
 
 The application uses two classes, ATM and BankAccount, to manage banking operations.
 
-Features
+# Features
 
 - Withdraw money from the account.
 - Deposit money into the account.
@@ -17,7 +17,7 @@ Features
 - Prevent withdrawals exceeding the available balance.
 - Display transaction success and failure messages.
 
-Technologies Used
+# Technologies Used
 
 - Java
 - Scanner Class
@@ -25,7 +25,3 @@ Technologies Used
 - Methods
 - Encapsulation
 - Conditional Statements
-
-
-
-Developer: Boya Indu
