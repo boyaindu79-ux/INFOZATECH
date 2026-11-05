@@ -1,20 +1,31 @@
-# INFOZATECH
+## Task 3 - ATM Interface
 
-## Task-2: Student Grade Calculator
+Description
 
-### Description
-The Student Grade Calculator is a Java-based project
-that calculates students' grades based on their marks.
+The ATM Interface is a Java-based console application that simulates basic ATM operations.
 
-It helps calculate the total marks, percentage, and
-grade of a student.
+It allows users to withdraw money, deposit money, and check their account balance.
 
-### Technology Used
+The application uses two classes, ATM and BankAccount, to manage banking operations.
+
+Features
+
+- Withdraw money from the account.
+- Deposit money into the account.
+- Check the current account balance.
+- Validate transaction amounts.
+- Prevent withdrawals exceeding the available balance.
+- Display transaction success and failure messages.
+
+Technologies Used
+
 - Java
-- OOP Concepts
+- Scanner Class
+- Classes and Objects
+- Methods
+- Encapsulation
+- Conditional Statements
 
-### Project Type
-Internship Task - 2
 
 
-
+Developer: Boya Indu
