@@ -1,6 +1,6 @@
 # INFOZATECH
 
-## Project Title: Student Grade Calculator
+## Task-2: Student Grade Calculator
 
 ### Description
 The Student Grade Calculator is a Java-based project
