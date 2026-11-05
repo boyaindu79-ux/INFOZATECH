@@ -16,3 +16,35 @@ grade of a student.
 ### Project Type
 Internship Task - 2
 
+
+
+# Task 3 - ATM Interface
+
+## Description
+The ATM Interface is a Java-based console
+application that simulates basic ATM operations.
+
+It allows users to withdraw money, deposit money,
+and check their account balance.
+
+The application uses ATM and BankAccount classes
+to manage banking operations.
+
+## Features
+- Withdraw money.
+- Deposit money.
+- Check account balance.
+- Validates transaction amounts.
+- Prevents withdrawals exceeding the balance.
+- Displays transaction success or failure messages.
+
+## Technologies Used
+- Java
+- Classes and Objects
+- Methods
+- Encapsulation
+- Scanner Class
+- Conditional Statements
+
+## Internship
+InfozaTech - Java Development Internship
