@@ -1,5 +1,5 @@
 # INFOZATECH
-## Task-1: Student Grade Calculator
+## Task-2: Student Grade Calculator
 ### Description
 The Student Grade Calculator is a Java-based application that calculates students' grades based on their subject marks.
 ### Features
